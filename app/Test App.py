@@ -1,1 +1,1 @@
-
+print("TEST APP STATUS CODE : 200")
