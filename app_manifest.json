@@ -1,5 +1,12 @@
-{
-  "author": "Your Name",
-  "app_name": "Your App Name",
-  "app_version": "1.0"
-}
+[
+  {
+    "author": "nottanmayyy",
+    "app_name": "Test App",
+    "app_version": "1.0"
+  },
+  {
+    "author": "nottanmayyy",
+    "app_name": "Test App 2",
+    "app_version": "1.0"
+  }
+]
